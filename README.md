@@ -42,13 +42,11 @@ WorldWide Blogs Laravel API is a RESTful API built with Laravel, providing featu
 - `routes/`: API route definitions.
 - `tests/`: PHPUnit tests.
 
-## composer install
+ composer install
 
-## php artisan migrate
-
-## php artisan serve
-
-## git clone https://github.com/muzzi0912/Laravel-WorldWide-Blogs-API.git
+ # php artisan migrate
+ # php artisan serve
+  git clone https://github.com/muzzi0912/Laravel-WorldWide-Blogs-API.git
 
 ## License
 
